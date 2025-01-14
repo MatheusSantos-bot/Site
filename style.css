@@ -1,0 +1,9 @@
+*{
+    background-color: rgb(21, 125, 216);
+}
+
+header, article, h2, p{
+    width: 940px;
+    margin: 17px auto;
+    background: wheat;
+}
